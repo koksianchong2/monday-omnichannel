@@ -97,7 +97,7 @@ Follow the steps below to buy a US virtual number. We will guide you through the
 3. Compose the SMS you would like to send and click on Send SMS.
 4. The SMS status will be shown at the bottom of the SMS card
 
-![image](https://user-images.githubusercontent.com/24620178/220551544-f31aea05-00b0-48ab-ae74-eb5747de21f7.png)
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/2568d934-2407-4433-ace6-a71a2cd9568d)
 
 **SMS Statuses**
 - Pending = SMS is awaiting Delivery Report (SMS may have already been sent)
