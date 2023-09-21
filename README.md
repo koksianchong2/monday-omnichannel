@@ -19,10 +19,14 @@
         - [Send SMS](#send-sms)
         - [Get notified on new SMS replies](#get-notified-on-new-sms-replies)
     - [Whitelist IP Address](#whitelist-ip-address)
-    - [Frequently Asked Questions](#faq)
+    - [Frequently Asked Questions](#sms-faq)
 - [WhatsApp](#whatsapp)
     - [Register for a WABA account](#register-for-a-waba-account)
     - [WhatsApp prerequisites](#whatsapp-prerequisites)
+    - [Send WhatsApp Message Template](#send-whatsapp-message-template)
+    - [Send WhatsApp Media](#send-whatsapp-media)
+    - [Send WhatsApp Message](#send-whatsapp-message)
+    - [WhatsApp FAQ](#whatsapp-faq)
 - [Feature Request](#feature-request)
 - [Feedback](#feedback)
 
@@ -130,7 +134,7 @@ To do so, follow these steps
 
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
-### FAQ
+### SMS FAQ
 1. **Can I get Test Credits ?**
 
 You can get 20 FREE credits and credits are valid for 14 days. Subject to approval. Please note that once you make a top-up, the free credits will be removed.
@@ -262,6 +266,7 @@ Start the whatsapp business registration process [here](https://dashboard.mocean
 #### Send WhatsApp Message Template
 
 1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
+
 2. Select the whatsapp number you owned in `WhatsApp Business` dropdown menu.
 
 3. Select the approved WhatsApp Template you'd like to send to your users
@@ -272,7 +277,34 @@ Start the whatsapp business registration process [here](https://dashboard.mocean
 
 5. Your messages will appear in the chat
 
-![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/b02f5fc3-8988-422d-a1a9-2fe478e72418)
+#### Send WhatsApp Media
+
+1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
+
+2. Select the whatsapp number you owned in `WhatsApp Business` dropdown menu.
+
+3. Click on the media icon and upload the media you'd like to send (image, video, document)
+
+4. You can enter the caption of the media and hit the send button
+ 
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/aa1e6ef0-c28a-4f42-84cf-f2af8c39a9f9)
+
+5. The media you sent, will be shown in the chat together with its delivery status similar to whatsapp.
+
+#### Send WhatsApp Message
+
+1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
+
+2. Select the whatsapp number you owned in `WhatsApp Business` dropdown menu.
+
+3. Simply enter the texts you want to send and hit the send button
+
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/ab34e2aa-4c13-4443-bb2f-2fd3988ec129)
+
+5. The message you sent, will be available in the chat along with its delivery status
+
+#### WhatsApp FAQ
+
 
 
 ## Feature Request
