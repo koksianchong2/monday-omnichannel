@@ -80,7 +80,7 @@ Follow the steps below to buy a US virtual number. We will guide you through the
 #### Prerequisites
 1. Before you can send SMS, you will need to specify the `Phone column` in the settings
 
-![image](https://user-images.githubusercontent.com/24620178/220550902-106c3c77-01f3-4da6-9b42-b0dfae30d21a.png)
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/c5e2cabf-3a06-46cb-b1ac-6cd8f0b3642f)
 
 2. You'll need to buy a virtual number [here](#buy-a-virtual-number) to receive the SMS from your recipients
 
@@ -116,7 +116,7 @@ Follow the steps below to buy a US virtual number. We will guide you through the
 5. You can now proceed to `enable` or `disable` receiving notifications in monday.com on every SMS reply
 6. Configure the **Person Column** you'd like to receive notifications on every SMS replies
 
-![image](https://user-images.githubusercontent.com/24620178/220549544-89966ee0-6e78-46a2-b6f4-9113c3542359.png)
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/c5e2cabf-3a06-46cb-b1ac-6cd8f0b3642f)
 
 7. Now just send the SMS as usual and we'll send you a `notification` in **monday.com** on every new SMS reply
 
