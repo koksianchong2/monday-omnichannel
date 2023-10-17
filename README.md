@@ -17,6 +17,8 @@
         - [Prerequisites](#prerequisites)
         - [Send Two Way SMS](#send-two-way-sms)
         - [Send SMS](#send-sms)
+        - [SMS Templates](#sms-templates)
+            - [Use SMS Template in Two Way SMS app](#use-sms-template-in-two-way-sms-app)
         - [Get notified on new SMS replies](#get-notified-on-new-sms-replies)
     - [Whitelist IP Address](#whitelist-ip-address)
     - [SMS Frequently Asked Questions](#sms-faq)
@@ -103,6 +105,28 @@ Follow the steps below to buy a US virtual number. We will guide you through the
 - Pending = SMS is awaiting Delivery Report (SMS may have already been sent)
 - Fail = SMS failed to deliver
 - Success = SMS delivered
+
+#### SMS Templates
+
+1. Open the app and click on **Update API Credentials**
+
+2. Navigate to **SMS Templates** via Side navigation bar
+
+3. Click on the **Create** button to create a new SMS template
+
+![image](https://github.com/MoceanAPI/monday-item/assets/24620178/f783edda-c38c-4a27-8cb3-3e1e86a6dc75)
+
+4. Click on **Save** button to save your SMS template
+
+##### Use SMS Template in Two Way SMS app
+
+1. Open the Two Way SMS app
+
+2. Simply **select** the SMS Template you'd like to use in your message
+
+3. Click on **Send SMS** to send the SMS
+
+![image](https://github.com/MoceanAPI/monday-omnichannel/assets/24620178/34d4fcbd-7c1e-4f56-8a6b-39c3a845554d)
 
 #### Get notified on new SMS replies
 
