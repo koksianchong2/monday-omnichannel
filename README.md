@@ -269,6 +269,8 @@ Below are some general guidelines / best practices you can follow:
 
 Start the whatsapp business registration process [here](https://dashboard.moceanapi.com/whatsapp/register)
 
+To try out a test WhatsApp account, contact sales [here](mailto:sookchin@moceansms.com)
+
 ### Usage
 
 #### WhatsApp Prerequisites
