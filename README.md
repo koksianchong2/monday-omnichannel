@@ -22,7 +22,7 @@
         - [Get notified on new SMS replies](#get-notified-on-new-sms-replies)
     - [Whitelist IP Address](#whitelist-ip-address)
     - [SMS Frequently Asked Questions](#sms-faq)
-- [WhatsApp](#whatsapp)
+- [Two way WhatsApp](#two-way-whatsapp)
     - [Register for a WABA account](#register-for-a-waba-account)
     - [WhatsApp prerequisites](#whatsapp-prerequisites)
     - [Send WhatsApp Message Template](#send-whatsapp-message-template)
@@ -263,7 +263,7 @@ Below are some general guidelines / best practices you can follow:
 | How to order                 | Email your request to [sales@moceanapi.com](mailto:sales@moceanapi.com)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Download TFN registration form [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit?usp=sharing&ouid=115964922142813966781&rtpof=true&sd=true)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Email your request to [sales@moceanapi.com](mailto:sales@moceanapi.com)  |
 
 
-## WhatsApp
+## Two Way WhatsApp
 
 ### Register for a WABA account
 
