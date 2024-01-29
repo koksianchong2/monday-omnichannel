@@ -217,6 +217,10 @@ You may have set an invalid sender id, alphanumeric sender id must be less than 
 
 Click [here](https://dashboard.moceanapi.com/topup/payment) and select your payment method of choice (Paypal and credit card)
 
+15. **Why I cannot buy a Virtual Number ?**
+
+Your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
+
 #### SMS Compliance in United States (US)
 
 1. **SMS Compliance Guidelines**
