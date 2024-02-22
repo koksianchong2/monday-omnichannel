@@ -376,6 +376,10 @@ We don't have this at the moment
 
 Report this to our [support team](mailto:support@moceanapi.com) and we'll connect you with our developers 
 
+10. **Does Mocean provide a whatsapp number ?**
+
+No, you will have to use your own WhatsApp number.
+
 ## Feature Request
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
 
