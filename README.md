@@ -380,6 +380,10 @@ Report this to our [support team](mailto:support@moceanapi.com) and we'll connec
 
 No, you will have to use your own WhatsApp number.
 
+11. **Do I need a Virtual Number to send 1-Way SMS?**
+
+No, you don't need a Virtual Number to send 1-Way SMS.
+
 ## Feature Request
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
 
