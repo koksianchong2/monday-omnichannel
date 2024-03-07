@@ -21,14 +21,14 @@
             - [Use SMS Template in Two Way SMS app](#use-sms-template-in-two-way-sms-app)
         - [Get notified on new SMS replies](#get-notified-on-new-sms-replies)
     - [Whitelist IP Address](#whitelist-ip-address)
-    - [SMS Frequently Asked Questions](#sms-faq)
+    - [SMS Frequently Asked Questions (FAQ)](#sms-faq)
 - [Two way WhatsApp](#two-way-whatsapp)
     - [Register for a WABA account](#register-for-a-waba-account)
     - [WhatsApp prerequisites](#whatsapp-prerequisites)
     - [Send WhatsApp Message Template](#send-whatsapp-message-template)
     - [Send WhatsApp Media](#send-whatsapp-media)
     - [Send WhatsApp Message](#send-whatsapp-message)
-    - [WhatsApp Frequently Asked Question](#whatsapp-faq)
+    - [WhatsApp Frequently Asked Question (FAQ)](#whatsapp-faq)
 - [Feature Request](#feature-request)
 - [Feedback](#feedback)
 
@@ -225,6 +225,10 @@ Your account is under trial mode or has insufficient balance. Please top up befo
 
 You will need to connect your monday.com account with us. We have a video for you to follow along to connect your monday account and MoceanAPI. https://youtu.be/P1DG6grBlQ0?si=W5NeYJnKODJP7Knk&t=60
 
+16. **Do I need a Virtual Number to send 1-Way SMS?**
+
+No, you don't need a Virtual Number to send 1-Way SMS.
+
 #### SMS Compliance in United States (US)
 
 1. **SMS Compliance Guidelines**
@@ -379,10 +383,6 @@ Report this to our [support team](mailto:support@moceanapi.com) and we'll connec
 10. **Does Mocean provide a whatsapp number ?**
 
 No, you will have to use your own WhatsApp number.
-
-11. **Do I need a Virtual Number to send 1-Way SMS?**
-
-No, you don't need a Virtual Number to send 1-Way SMS.
 
 ## Feature Request
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
