@@ -197,7 +197,7 @@ Message content that is not registered will result in a failure. To comply with 
 
 10. **How do I go about obtaining or purchasing a number in the US/Canada?**
     
-a) Complete the number registration form available [here](https://docs.google.com/document/d/1I37LP5jF4fnpno9FUcvcQ0p06oGtOqhZ/edit) 
+a) Complete the number registration form available [here](https://docs.google.com/document/d/1uAncuDWPEJtKvDPpDfU1Q_5ZUSJg8arQ/edit?usp=sharing&ouid=112891359226997642453&rtpof=true&sd=true) 
 
 b) Proceed with the payment.
 
