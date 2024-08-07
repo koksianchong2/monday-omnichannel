@@ -24,7 +24,7 @@
     - [SMS Frequently Asked Questions (FAQ)](#sms-faq)
 - [Two way WhatsApp](#two-way-whatsapp)
     - [Register for a WABA account](#register-for-a-waba-account)
-    - [Connect to Mocaean API](#connect-to-mocean-api)
+    - [Connect to Mocean API](#connect-to-mocean-api)
     - [Add test number](#add-test-number)
     - [WhatsApp prerequisites](#whatsapp-prerequisites)
     - [Send WhatsApp Message Template](#send-whatsapp-message-template)
